@@ -1,5 +1,7 @@
 # Implementando o Projeto Hands-on - Parte 1 com Cloud AWS e GCP
 
+Publicação da parte 1 no LinkedIn - [Imersão Cloud](https://www.linkedin.com/posts/andr%C3%A9-barbosa229_cloudcomputing-aws-gcp-activity-7097391099354202113-WJLP?utm_source=share&utm_medium=member_desktop)
+
 Olá, pessoal! Nesta parte do projeto, vamos mergulhar na implementação prática do Hands-on, utilizando as nuvens Amazon Web Services (AWS) e Google Cloud Platform (GCP). Vamos dar uma olhada nos passos que segui para fazer isso acontecer:
 
 ## Amazon Web Services (AWS)
